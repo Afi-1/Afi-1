@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afi-1
 - 👀 I’m interested in programming and everything in the tech world
-- 🌱 I’m currently learning html and c++ online
+- 🌱 I’m currently learning javascript and python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : adetiwendy07@gmail.com
 - 😄 Pronouns: she/her
